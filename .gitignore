@@ -8,3 +8,5 @@ data/
 *.safetensors
 *.gguf
 wandb/
+*.egg-info/
+.idea/

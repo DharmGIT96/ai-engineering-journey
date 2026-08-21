@@ -22,7 +22,7 @@ RULES
 import time
 import numpy as np
 
-from linalg_scratch import Vector
+from ailib.vectors import Vector
 
 
 # ===========================================================================
